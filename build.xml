@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<project name="SampleJavaProject" default="war"
+<project name="SampleJavaProject" default="clean-build"
          xmlns:ivy="antlib:org.apache.ivy.ant">
 
   <!-- Project-specific configuration -->
